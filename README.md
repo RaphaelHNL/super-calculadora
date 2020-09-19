@@ -2,6 +2,10 @@
 ## About
 Build a calculator using JavaScript, HTML and CSS.
 
+## Preview
+
+![Imagem Super Calculadora](https://github.com/RaphaelHNL/super-calculadora/blob/master/superCalculadora.PNG)
+
 ## Technologies used
 * HTML
 * CSS
