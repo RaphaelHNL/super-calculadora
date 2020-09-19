@@ -4,7 +4,7 @@ Build a calculator using JavaScript, HTML and CSS.
 
 ## Preview
 
-![Imagem Super Calculadora](https://github.com/RaphaelHNL/super-calculadora/blob/master/superCalculadora.PNG)
+![Imagem Super Calculadora](https://github.com/RaphaelHNL/super-calculadora/blob/master/img/superCalculadora.PNG)
 
 ## Technologies used
 * HTML
